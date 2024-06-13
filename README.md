@@ -1,1 +1,2 @@
-# StressedOrCalmPrediction
+# Stressed Or Calm Prediction Project
+The main goal of the questions used while creating the dataset was to determine whether the person is stressed or calm based on the information entered. Accordingly, questions that indicate mood, such as mood in specific situations, hobbies, age, gender, and zodiac signs, were preferred. An online form has been created with predefined questions to gather the dataset. Random Forest, SVM, Naive Bayes, KNN, and Logistic Regression algorithms were used for prediction, and cross-validation was employed.
